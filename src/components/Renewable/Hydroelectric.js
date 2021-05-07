@@ -111,7 +111,7 @@ const Hydroelectric = () => {
         </div>
                     
         <div className="flex-container-cards">
-            <div className="flex-item-cards">
+            <div className="flex-item-cards-hydroelectric">
                 <article class="message is-dark">
                     <div class="message-header">
                         <p>Hydroelectric Energy Facts</p>
@@ -119,8 +119,11 @@ const Hydroelectric = () => {
                     <div className="message-body">
                         <ol>
                             <li> At hydropower plants water flows through a pipe, or penstock, then pushes against and turns blades in a turbine to spin a generator to produce electricity.</li>
+                            <br/>
                             <li> Hydroelectricity provides about seven percent of the electricity generated in the United States and about half of the electricity from all renewable sources</li>
+                            <br/>
                             <li> Hydropower costs less than most energy sources. States that get the majority of their electricity from hydropower, like Idaho, Washington, and Oregon, have energy bills that are lower than the rest of the country.</li>
+                            <br/>
                             <li> Hydropower is one of the oldest power sources on the planet, generating power when flowing water spins a wheel or turbine. It was used by farmers as far back as ancient Greece for mechanical tasks like grinding grain.</li>
                         </ol>
                     </div>
@@ -128,7 +131,7 @@ const Hydroelectric = () => {
             </div>
         
 
-            <div className="flex-item-image">
+            <div className="flex-item-image-hydroelectric">
                 <img src={hydroelectricEnergy} alt=""/>
 
             </div>

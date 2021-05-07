@@ -113,7 +113,7 @@ const Solar = () => {
         </div>
                     
         <div className="flex-container-cards">
-            <div className="flex-item-cards">
+            <div className="flex-item-cards-solar">
                 <article class="message is-dark">
                     <div class="message-header">
                         <p>Solar Energy Facts</p>
@@ -121,17 +121,23 @@ const Solar = () => {
                     <div className="message-body">
                         <ol>
                             <li> Solar energy is the most abundant energy resource on earth - 173,000 terawatts of solar energy strikes the Earth continuously - <u>That's more than 10,000 times the world's total energy use.</u></li>
+                            <br/>
                             <li> California generates the most solar energy in the United States.</li>
+                            <br/>
                             <li> California’s Mojave Desert is home to Ivanpah Solar Power Facility, the world’s largest operating solar thermal energy plant spanning around 1000 acres.</li>
+                            <br/>
                             <li> The United States is the third-largest solar energy market and generator in the world.</li>
+                            <br/>
                             <li>As of 2019 Solar energy is cheaper than fossil fuels </li>
+                            <br/>
+                            <li>In early 2019, the U.S. surpassed 2 million solar system installations. This milestone comes just three years after the industry completed its 1 millionth installation, a feat that took 40 years to accomplish. </li>
                         </ol>
                     </div>
                 </article>
             </div>
         
 
-            <div className="flex-item-image">
+            <div className="flex-item-image-solar">
                 <img src={solarEnergy} alt=""/>
 
             </div>

@@ -126,7 +126,7 @@ canvas {
 .flex-container-chart-solar {
   display:flex;
   margin-top: 0;
-  margin-left: 20px;
+  margin-left: 450px;
   height: 400px;
   margin-right: 450px;
   justify-content: center;
@@ -151,7 +151,31 @@ canvas {
   display: flex;
   margin: 20px;
   border: solid;
-  padding: 4px
+  padding: 4px;
+}
+
+.flex-item-cards-solar {
+  display: flex;
+  margin: 20px;
+  border: solid;
+  padding: 4px;
+  flex-basis: 50% ;
+}
+
+.flex-item-cards-hydroelectric {
+  display: flex;
+  margin: 20px;
+  border: solid;
+  padding: 4px;
+  flex-basis: 70% ;
+}
+
+.flex-item-cards-wind {
+  display: flex;
+  margin: 20px;
+  border: solid;
+  padding: 4px;
+  flex-basis: 50% ;
 }
 
 .chart-wind {
@@ -183,6 +207,34 @@ canvas {
   margin: 20px;
 }
 
+.flex-item-image-solar {
+
+  padding-right:4px;
+  padding-left:4px;
+  padding-top:4px;
+  border: solid;
+  margin: 20px;
+  flex-basis: 50%;
+}
+
+.flex-item-image-hydroelectric {
+
+  padding-right:4px;
+  padding-left:4px;
+  padding-top:4px;
+  border: solid;
+  margin: 20px;
+  flex-basis: 50%;
+}
+
+.flex-item-image-wind {
+  padding-right:4px;
+  padding-left:4px;
+  padding-top:4px;
+  border: solid;
+  margin: 20px;
+  flex-basis: 40%;
+}
 .content-wind {
   background-image: url('./Images/wind-turbine-background.jpeg');
   background-size: contain;

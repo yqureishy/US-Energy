@@ -108,7 +108,7 @@ const Wind = () => {
         </div>
                     
         <div className="flex-container-cards">
-            <div className="flex-item-cards">
+            <div className="flex-item-cards-wind">
                 <article class="message is-dark">
                     <div class="message-header">
                         <p>Wind Energy Facts</p>
@@ -125,7 +125,7 @@ const Wind = () => {
             </div>
         
 
-            <div className="flex-item-image">
+            <div className="flex-item-image-wind">
                 <img src={windEnergy} alt=""/>
 
             </div>
