@@ -275,6 +275,10 @@ canvas {
   flex-direction: column;
 }
 
+.flex-item-chart-import-export{
+  margin-left: -370px
+}
+
 
 .content-import-export h1 {
 color: rgb(0, 0, 0);

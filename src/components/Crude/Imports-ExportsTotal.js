@@ -104,7 +104,7 @@ const Imports_ExportsTotal = () => {
         <h1 className="graphTitles">Crude/Petroleum Imports and Exports</h1>
         <div className="flex-container-chart">
             
-            <div className="flex-item-chart">
+            <div className="flex-item-chart-import-export">
                 
                     <div className="chart-import-export" style={{height:"500px", width: "700px"}}>
                         <Line

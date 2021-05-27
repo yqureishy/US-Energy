@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dist": "surge --domain US-Energy.surge.sh"
+    "dist": "surge --domain us-energy.surge.sh"
   },
   "eslintConfig": {
     "extends": [
