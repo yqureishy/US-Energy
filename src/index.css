@@ -137,7 +137,7 @@ canvas {
   margin-top: 0;
   margin-left: 20px;
   height: 400px;
-  margin-right: 450px;
+  margin-right: 20px;
   justify-content: center;
 }
 
@@ -236,8 +236,8 @@ canvas {
   flex-basis: 40%;
 }
 .content-wind {
-  background-image: url('./Images/wind-turbine-background.jpeg');
-  background-size: contain;
+  background-image: url('./Images/windTurbine.jpeg');
+  background-size:cover;
   display: flex;
   flex-direction: column;
 
@@ -253,7 +253,7 @@ canvas {
 
 .content-hydroelectric {
   background-image: url('./Images/hydroelectric-bg.jpeg');
-  background-size: contain;
+  background-size: cover;
   display: flex;
   flex-direction: column;
 
@@ -261,7 +261,7 @@ canvas {
 
 .content-solar {
   background-image: url('./Images/solar-bg-small.jpeg');
-  background-size: contain;
+  background-size: cover;
   display: flex;
   flex-direction: column;
 
