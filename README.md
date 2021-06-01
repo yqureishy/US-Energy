@@ -15,14 +15,10 @@ The purpose of the app is to inform the public about United States' Energy data 
  
  * **Screenshots:**
  <br>
- <br>
- 
- 
- ***Hydroelectric Page Content***
  
 
 
-Chart         |  Facts   |  GIF
+Hydroelectric Chart         |   Hydroelectric Facts   |  Hydroelectric GIF
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/Hydroelectric_chart.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/hydroelectric_facts.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/src/Images/hydroelectric.gif?raw=true)
 
