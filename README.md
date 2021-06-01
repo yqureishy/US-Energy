@@ -3,7 +3,7 @@
 * **Live link:**
 http://us-energy.surge.sh/
 
-![](https://github.com/yqureishy/US-Energy/tree/master/screenshots/Hydroelectric_chart.png?raw=true)
+![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/Hydroelectric_chart.png?raw=true)
 
 
 
