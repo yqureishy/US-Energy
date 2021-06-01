@@ -16,7 +16,9 @@ The purpose of the app is to inform the public about United States' Energy data 
  * **Screenshots:**
  <br>
  <br>
- * ***Hydroelectric Page Content***
+ 
+ 
+ ***Hydroelectric Page Content***
  
 
 
