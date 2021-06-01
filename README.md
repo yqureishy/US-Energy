@@ -15,7 +15,7 @@ The purpose of the app is to inform the public about United States' Energy data 
  
  * **Screenshots:**
  
- ##### Hydroelectric Page Content
+ - #### Hydroelectric Page Content
 
 
 Hydroelectric Chart         |  Hydroelectric Facts   |  Hydroelectric GIF
