@@ -14,11 +14,13 @@ The purpose of the app is to inform the public about United States' Energy data 
  HTML, CSS, React, Redux, Chart.js, US-EIA API, Surge
  
  * **Screenshots:**
+ <br>
+ <br>
  - #### Hydroelectric Page Content
  
 
 
-Hydroelectric Chart         |  Hydroelectric Facts   |  Hydroelectric GIF
+Chart         |  Facts   |  GIF
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/Hydroelectric_chart.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/hydroelectric_facts.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/src/Images/hydroelectric.gif?raw=true)
 
