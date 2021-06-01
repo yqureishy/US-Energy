@@ -20,3 +20,7 @@ Hydroelectric Chart         |  Hydroelectric Facts   |  Hydroelectric GIF
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/Hydroelectric_chart.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/hydroelectric_facts.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/src/Images/hydroelectric.gif?raw=true)
 
+Crude Exports/Imports Chart  |  Crude Import Facts   |  Crude Export Facts
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/Hydroelectric_chart.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/imports_facts.png?raw=true)  |  ![](https://github.com/yqureishy/US-Energy/blob/master/screenshots/exports_facts?raw=true)
+
