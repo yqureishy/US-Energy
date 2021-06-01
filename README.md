@@ -14,8 +14,7 @@ The purpose of the app is to inform the public about United States' Energy data 
  HTML, CSS, React, Redux, Chart.js, US-EIA API, Surge
  
  * **Screenshots:**
-
-<b>Hydroelectric Page Content</b>
+    <b>Hydroelectric Page Content</b>
 
 
 Hydroelectric Chart         |  Hydroelectric Facts   |  Hydroelectric GIF
